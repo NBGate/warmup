@@ -4,3 +4,5 @@
 *.swp
 bin/
 obj/
+gen/
+local.properties
