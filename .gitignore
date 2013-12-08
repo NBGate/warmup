@@ -5,4 +5,6 @@
 bin/
 obj/
 gen/
+libs/
+.settings/
 local.properties
