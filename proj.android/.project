@@ -110,7 +110,7 @@
 		<link>
 			<name>Classes</name>
 			<type>2</type>
-			<locationURI>COCOS2DX/projects/warnup/Classes</locationURI>
+			<location>D:/nbgate/projects/warmup/Classes</location>
 		</link>
 		<link>
 			<name>cocos2dx</name>
